@@ -1,0 +1,23 @@
+Database Added :
+1 ) Table tbl_user   : Add coloumn user_fullname 
+2 ) Table tbl_jadual : Add coloumn id , user_id
+3 ) Table employees  : Add coloumn email
+
+
+
+File Added :
+1 ) jadual_1.php
+2 ) index_employee.php
+3 ) menu_employee.php
+
+
+File Change Code :
+1 ) login.php
+2 ) add_user.php
+3 ) view_user.php
+4 ) config.php
+5 ) createpekerja.php
+6 ) indekpekerja.php
+
+
+<?php echo $user_fullname ; ?>
